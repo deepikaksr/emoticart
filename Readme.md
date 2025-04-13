@@ -1,4 +1,4 @@
-# EmotiCart: Real-Time Emotion-Based Product Detection in Retail
+# EmotiCart: Real-Time Emotion-Based Product Detection System
 
 EmotiCart is a smart shopping assistant that leverages real-time emotion and object detection technologies to provide personalized product recommendations in retail settings. By capturing a live webcam feed, the system detects both the product being viewed and the customer's mood. Based on the analysis, EmotiCart suggests tailored products that match the customer’s current emotional state.
 
