@@ -1,0 +1,160 @@
+Category,Title,Price (INR),Description,Image URL
+Bicycle, Mountain Bike, 124500, A durable mountain bike designed for off-road cycling., https://example.com/mountain_bike.jpg
+Bicycle, Road Bike, 99600, A lightweight road bike ideal for long rides., https://example.com/road_bike.jpg
+Bicycle, Hybrid Bike, 74700, A versatile hybrid bike for commuting and light trails., https://example.com/hybrid_bike.jpg
+Car, Luxury Sedan, 166600, A luxury sedan with advanced features for comfort., https://example.com/luxury_sedan.jpg
+Car, Sports Car, 2499000, A high-performance sports car for speed and handling., https://example.com/sports_car.jpg
+Car, Electric Sedan, 2075000, An electric sedan with zero emissions and great efficiency., https://example.com/electric_sedan.jpg
+Motorbike, Cruiser Motorbike, 249900, A cruiser motorbike known for its stylish design and comfort., https://example.com/cruiser_motorbike.jpg
+Motorbike, Sport Motorbike, 415500, A sport motorbike built for speed and agility., https://example.com/sport_motorbike.jpg
+Motorbike, Touring Motorbike, 581100, A touring motorbike designed for long-distance rides., https://example.com/touring_motorbike.jpg
+Airplane, Commercial Airplane, 4150000, A large commercial airplane for transporting passengers., https://example.com/commercial_airplane.jpg
+Airplane, Private Jet, 83000000, A private jet providing luxury and speed for personal use., https://example.com/private_jet.jpg
+Airplane, Cargo Plane, 16600000, A cargo plane used for transporting goods., https://example.com/cargo_plane.jpg
+Bus, City Bus, 4980000, A city bus designed for short urban commutes., https://example.com/city_bus.jpg
+Bus, Double Decker Bus, 6640000, A double-decker bus for high-capacity urban transport., https://example.com/double_decker_bus.jpg
+Bus, Electric Bus, 5810000, An electric bus that is eco-friendly and quiet., https://example.com/electric_bus.jpg
+Train, High-Speed Train, 8300000, A high-speed train designed for fast intercity travel., https://example.com/high_speed_train.jpg
+Train, Bullet Train, 4150000, A bullet train offering high-speed travel on dedicated tracks., https://example.com/bullet_train.jpg
+Train, Steam Train, 1666000, A steam-powered train offering a historic ride., https://example.com/steam_train.jpg
+Truck, Pickup Truck, 2499000, A pickup truck designed for personal and light business use., https://example.com/pickup_truck.jpg
+Truck, Dump Truck, 2074000, A dump truck for transporting heavy loads of material., https://example.com/dump_truck.jpg
+Truck, Delivery Truck, 8300000, A delivery truck used for transporting goods over long distances., https://example.com/delivery_truck.jpg
+Boat, Yacht, 1245000, A yacht for luxury cruising on the water., https://example.com/yacht.jpg
+Boat, Speed Boat, 4150000, A speed boat for fast boating and water sports., https://example.com/speed_boat.jpg
+Boat, Sailboat, 1660000, A sailboat for leisurely sailing and racing., https://example.com/sailboat.jpg
+Wine Glass, Red Wine Glass, 2499, A fine red wine glass to enhance the drinking experience., https://example.com/red_wine_glass.jpg
+Wine Glass, White Wine Glass, 1245, A white wine glass with a slender design., https://example.com/white_wine_glass.jpg
+Wine Glass, Crystal Wine Glass, 249, A crystal wine glass ideal for fine wines and occasions., https://example.com/crystal_wine_glass.jpg
+Cup, Coffee Cup, 830, A simple coffee cup for daily use., https://example.com/coffee_cup.jpg
+Cup, Tea Cup, 664, A tea cup for enjoying your favorite tea., https://example.com/tea_cup.jpg
+Cup, Mug, 996, A versatile mug for both hot and cold beverages., https://example.com/mug.jpg
+Fork, Stainless Steel Fork, 1500, A stainless steel fork for eating various meals., https://example.com/stainless_steel_fork.jpg
+Fork, Salad Fork, 2499, A salad fork designed for eating leafy greens., https://example.com/salad_fork.jpg
+Fork, Dessert Fork, 3299, A dessert fork for enjoying sweet treats., https://example.com/dessert_fork.jpg
+Knife, Kitchen Knife, 4999, A kitchen knife for food preparation., https://example.com/kitchen_knife.jpg
+Knife, Steak Knife, 3299, A steak knife for cutting through meats with ease., https://example.com/steak_knife.jpg
+Knife, Paring Knife, 2499, A paring knife for precise cutting and peeling., https://example.com/paring_knife.jpg
+Spoon, Soup Spoon, 12450, A soup spoon designed for soups and broths., https://example.com/soup_spoon.jpg
+Spoon, Tea Spoon, 32999, A tea spoon for stirring and serving tea., https://example.com/tea_spoon.jpg
+Spoon, Serving Spoon, 4999, A large serving spoon for serving main dishes., https://example.com/serving_spoon.jpg
+Bowl, Soup Bowl, 4999, A classic soup bowl for enjoying hot soups., https://example.com/soup_bowl.jpg
+Bowl, Salad Bowl, 18999, A salad bowl perfect for serving fresh salads., https://example.com/salad_bowl.jpg
+Bowl, Pasta Bowl, 5999, A pasta bowl designed for serving pasta dishes., https://example.com/pasta_bowl.jpg
+Banana, Ripe Banana, 249, A ripe banana rich in potassium and vitamins., https://example.com/ripe_banana.jpg
+Banana, Green Banana, 166, A green banana with a firmer texture and slightly tart taste., https://example.com/green_banana.jpg
+Banana, Frozen Banana, 332, A frozen banana used in smoothies and desserts., https://example.com/frozen_banana.jpg
+Keyboard, Wireless Keyboard, 830, A wireless keyboard for a clean and uncluttered workspace., https://example.com/wireless_keyboard.jpg
+Keyboard, Mechanical Keyboard, 664, A mechanical keyboard known for its tactile feedback and durability., https://example.com/mechanical_keyboard.jpg
+Keyboard, Ergonomic Keyboard, 996, An ergonomic keyboard designed for comfort., https://example.com/ergonomic_keyboard.jpg
+Cell Phone, Smartphone, 1500, A smartphone with the latest features and capabilities., https://example.com/smartphone.jpg
+Cell Phone, Budget Smartphone, 2499, A budget smartphone for basic daily tasks., https://example.com/budget_smartphone.jpg
+Cell Phone, Flagship Smartphone, 3299, A flagship smartphone with top-tier specs and features., https://example.com/flagship_smartphone.jpg
+Laptop, Gaming Laptop, 12450, A gaming laptop designed for high performance., https://example.com/gaming_laptop.jpg
+Laptop, Ultrabook Laptop, 32999, An ultrabook laptop for lightweight portability and power., https://example.com/ultrabook_laptop.jpg
+Laptop, Business Laptop, 4999, A business laptop with security and reliability features., https://example.com/business_laptop.jpg
+Mouse, Gaming Mouse, 4999, A gaming mouse with precision and customizable buttons., https://example.com/gaming_mouse.jpg
+Mouse, Wireless Mouse, 18999, A wireless mouse offering smooth control., https://example.com/wireless_mouse.jpg
+Mouse, Ergonomic Mouse, 5999, An ergonomic mouse to reduce strain during extended use., https://example.com/ergonomic_mouse.jpg
+TV, OLED TV, 24900, An OLED TV offering vibrant colors and sharp contrasts., https://example.com/oled_tv.jpg
+TV, LED TV, 42990, A LED TV with excellent picture quality for home entertainment., https://example.com/led_tv.jpg
+TV, 4K TV, 12490, A 4K TV for ultra-high-definition viewing., https://example.com/4k_tv.jpg
+Microwave, Countertop Microwave, 2300, A countertop microwave for fast heating and cooking., https://example.com/countertop_microwave.jpg
+Microwave, Compact Microwave, 2499, A compact microwave perfect for smaller kitchens., https://example.com/compact_microwave.jpg
+Microwave, Convection Microwave, 4999, A convection microwave that combines microwave and convection cooking., https://example.com/convection_microwave.jpg
+Refrigerator, Side-by-Side Refrigerator, 18999, A side-by-side refrigerator for spacious storage., https://example.com/side_by_side_refrigerator.jpg
+Refrigerator, French Door Refrigerator, 5999, A French door refrigerator with a modern design and ample space., https://example.com/french_door_refrigerator.jpg
+Refrigerator, Compact Refrigerator, 9999, A compact refrigerator for small spaces and apartments., https://example.com/compact_refrigerator.jpg
+Oven, Convection Oven, 24900, A convection oven for baking roasting and broiling., https://example.com/convection_oven.jpg
+Oven, Toaster Oven, 42990, A toaster oven for quick and even toasting., https://example.com/toaster_oven.jpg
+Oven, Microwave Oven, 12490, A microwave oven offering quick cooking with high efficiency., https://example.com/microwave_oven.jpg
+Washing Machine, Front Load Washing Machine, 2300, A front-load washing machine for superior cleaning., https://example.com/front_load_washing_machine.jpg
+Washing Machine, Top Load Washing Machine, 2499, A top-load washing machine for ease of use and convenience., https://example.com/top_load_washing_machine.jpg
+Washing Machine, Portable Washing Machine, 4999, A portable washing machine for compact living spaces., https://example.com/portable_washing_machine.jpg
+Air Conditioner, Window Air Conditioner, 6999, A window air conditioner ideal for cooling small rooms., https://example.com/window_air_conditioner.jpg
+Air Conditioner, Split Air Conditioner, 12499, A split air conditioner designed for quieter operation., https://example.com/split_air_conditioner.jpg
+Air Conditioner, Portable Air Conditioner, 4999, A portable air conditioner for flexible cooling options., https://example.com/portable_air_conditioner.jpg
+Fan, Ceiling Fan, 2499, A ceiling fan designed to circulate air efficiently in rooms., https://example.com/ceiling_fan.jpg
+Fan, Table Fan, 499, A table fan for personal cooling in small spaces., https://example.com/table_fan.jpg
+Fan, Tower Fan, 3299, A tower fan offering high airflow in a sleek design., https://example.com/tower_fan.jpg
+Heater, Oil Heater, 2499, An oil heater providing consistent warmth during cold weather., https://example.com/oil_heater.jpg
+Heater, Ceramic Heater, 2499, A ceramic heater offering quick and efficient heating., https://example.com/ceramic_heater.jpg
+Heater, Electric Heater, 4999, An electric heater with adjustable settings for comfort., https://example.com/electric_heater.jpg
+Vacuum Cleaner, Bagless Vacuum Cleaner, 4999, A bagless vacuum cleaner for easy cleaning and maintenance., https://example.com/bagless_vacuum_cleaner.jpg
+Vacuum Cleaner, Robotic Vacuum Cleaner, 9999, A robotic vacuum cleaner designed for hands-free cleaning., https://example.com/robotic_vacuum_cleaner.jpg
+Vacuum Cleaner, Wet and Dry Vacuum Cleaner, 2499, A wet and dry vacuum cleaner for versatile cleaning tasks., https://example.com/wet_and_dry_vacuum_cleaner.jpg
+Coffee Maker, Espresso Machine, 24999, An espresso machine for brewing professional-quality espresso., https://example.com/espresso_machine.jpg
+Coffee Maker, Drip Coffee Maker, 4999, A drip coffee maker for brewing delicious coffee., https://example.com/drip_coffee_maker.jpg
+Coffee Maker, Single-Serve Coffee Maker, 1499, A single-serve coffee maker for quick and convenient coffee., https://example.com/single_serve_coffee_maker.jpg
+Blender, High-Speed Blender, 4999, A high-speed blender for smoothies soups and more., https://example.com/high_speed_blender.jpg
+Blender, Personal Blender, 1499, A personal blender for making smoothies on the go., https://example.com/personal_blender.jpg
+Blender, Immersion Blender, 2499, An immersion blender for quick blending in containers., https://example.com/immersion_blender.jpg
+Mixer, Stand Mixer, 9999, A stand mixer for heavy-duty mixing in baking and cooking., https://example.com/stand_mixer.jpg
+Mixer, Hand Mixer, 4999, A hand mixer for convenient mixing and whisking., https://example.com/hand_mixer.jpg
+Mixer, Immersion Mixer, 2499, An immersion mixer ideal for blending in bowls and pots., https://example.com/immersion_mixer.jpg
+Grill, Gas Grill, 14999, A gas grill for outdoor grilling and barbecues., https://example.com/gas_grill.jpg
+Grill, Charcoal Grill, 4999, A charcoal grill for an authentic barbecue flavor., https://example.com/charcoal_grill.jpg
+Grill, Electric Grill, 2499, An electric grill for indoor grilling with ease., https://example.com/electric_grill.jpg
+Sewing Machine, Manual Sewing Machine, 2499, A manual sewing machine for simple sewing tasks., https://example.com/manual_sewing_machine.jpg
+Sewing Machine, Automatic Sewing Machine, 4999, An automatic sewing machine for faster and more efficient sewing., https://example.com/automatic_sewing_machine.jpg
+Sewing Machine, Embroidery Sewing Machine, 9999, An embroidery sewing machine for creating intricate designs., https://example.com/embroidery_sewing_machine.jpg
+Wristwatch, Analog Wristwatch, 2499, An analog wristwatch with a classic design., https://example.com/analog_wristwatch.jpg
+Wristwatch, Digital Wristwatch, 3299, A digital wristwatch with a modern and functional design., https://example.com/digital_wristwatch.jpg
+Wristwatch, Smartwatch, 4999, A smartwatch with fitness tracking and notification features., https://example.com/smartwatch.jpg
+Shoes, Running Shoes, 4999, A pair of running shoes designed for comfort and performance., https://example.com/running_shoes.jpg
+Shoes, Casual Shoes, 2499, A pair of casual shoes suitable for everyday wear., https://example.com/casual_shoes.jpg
+Shoes, Formal Shoes, 1499, A pair of formal shoes for business or formal occasions., https://example.com/formal_shoes.jpg
+T-Shirt, Graphic T-Shirt, 599, A graphic t-shirt with a stylish design., https://example.com/graphic_tshirt.jpg
+T-Shirt, Plain T-Shirt, 299, A plain t-shirt for casual wear., https://example.com/plain_tshirt.jpg
+T-Shirt, Polo T-Shirt, 999, A polo t-shirt for a smart-casual look., https://example.com/polo_tshirt.jpg
+Jeans, Skinny Jeans, 1999, A pair of skinny jeans with a modern fit., https://example.com/skinny_jeans.jpg
+Jeans, Bootcut Jeans, 2499, A pair of bootcut jeans for a comfortable and stylish fit., https://example.com/bootcut_jeans.jpg
+Jeans, Straight Jeans, 1499, A pair of straight jeans for a classic look., https://example.com/straight_jeans.jpg
+Sunglasses, Aviator Sunglasses, 2499, A pair of aviator sunglasses for a sleek and stylish look., https://example.com/aviator_sunglasses.jpg
+Sunglasses, Round Sunglasses, 1999, A pair of round sunglasses for a retro-inspired style., https://example.com/round_sunglasses.jpg
+Sunglasses, Wayfarer Sunglasses, 2499, A pair of wayfarer sunglasses for a timeless fashion statement., https://example.com/wayfarer_sunglasses.jpg
+Hat, Baseball Cap, 699, A baseball cap for a sporty and casual look., https://example.com/baseball_cap.jpg
+Hat, Fedora, 1499, A fedora for a more formal and stylish look., https://example.com/fedora.jpg
+Hat, Beanie, 999, A beanie for keeping warm in cold weather., https://example.com/beanie.jpg
+Bag, Backpack, 1499, A durable backpack ideal for school or travel., https://example.com/backpack.jpg
+Bag, Handbag, 2499, A stylish handbag suitable for everyday use., https://example.com/handbag.jpg
+Bag, Duffel Bag, 1999, A duffel bag perfect for gym or short trips., https://example.com/duffel_bag.jpg
+Bottle, Water Bottle, 299, A reusable water bottle to keep you hydrated., https://example.com/water_bottle.jpg
+Bottle, Thermos, 599, A thermos to keep drinks hot or cold., https://example.com/thermos.jpg
+Bottle, Sports Bottle, 499, A sports bottle designed for workouts and running., https://example.com/sports_bottle.jpg
+Book, Novel, 399, A captivating novel for reading enthusiasts., https://example.com/novel.jpg
+Book, Textbook, 799, An educational textbook for academic learning., https://example.com/textbook.jpg
+Book, Notebook, 199, A notebook ideal for taking notes and journaling., https://example.com/notebook.jpg
+Toy, Teddy Bear, 699, A cuddly teddy bear toy for kids., https://example.com/teddy_bear.jpg
+Toy, Remote Car, 1499, A remote-controlled car for fun and excitement., https://example.com/remote_car.jpg
+Toy, Puzzle, 499, A brain-teasing puzzle game for kids and adults., https://example.com/puzzle.jpg
+Chair, Office Chair, 3999, An ergonomic office chair for comfortable seating., https://example.com/office_chair.jpg
+Chair, Dining Chair, 1999, A wooden dining chair for home use., https://example.com/dining_chair.jpg
+Chair, Folding Chair, 999, A portable folding chair for indoor and outdoor use., https://example.com/folding_chair.jpg
+Table, Coffee Table, 2999, A modern coffee table for your living room., https://example.com/coffee_table.jpg
+Table, Study Table, 3499, A study table ideal for students and professionals., https://example.com/study_table.jpg
+Table, Dining Table, 5999, A dining table perfect for family meals., https://example.com/dining_table.jpg
+Laptop, Gaming Laptop, 74999, A high-performance laptop for gaming and work., https://example.com/gaming_laptop.jpg
+Laptop, Ultrabook, 59999, A lightweight ultrabook with long battery life., https://example.com/ultrabook.jpg
+Laptop, Convertible Laptop, 64999, A 2-in-1 convertible laptop for work and play., https://example.com/convertible_laptop.jpg
+Mobile, Smartphone, 24999, A smartphone with advanced features and performance., https://example.com/smartphone.jpg
+Mobile, Feature Phone, 1499, A simple feature phone for basic communication., https://example.com/feature_phone.jpg
+Mobile, Foldable Phone, 84999, A futuristic foldable phone with flexible display., https://example.com/foldable_phone.jpg
+Tablet, Android Tablet, 14999, An Android tablet for media and productivity., https://example.com/android_tablet.jpg
+Tablet, iPad, 34999, A premium iPad with iOS features and performance., https://example.com/ipad.jpg
+Tablet, Kids Tablet, 9999, A tablet designed specifically for children., https://example.com/kids_tablet.jpg
+TV, LED TV, 19999, A slim LED TV with clear display and sound., https://example.com/led_tv.jpg
+TV, Smart TV, 29999, A smart TV with internet and app connectivity., https://example.com/smart_tv.jpg
+TV, OLED TV, 49999, A high-end OLED TV for premium viewing experience., https://example.com/oled_tv.jpg
+Camera, DSLR, 45999, A DSLR camera for professional photography., https://example.com/dslr.jpg
+Camera, Action Camera, 14999, A compact action camera for capturing adventures., https://example.com/action_camera.jpg
+Camera, Polaroid Camera, 9999, An instant Polaroid camera for quick photo prints., https://example.com/polaroid_camera.jpg
+Microwave, Solo Microwave, 4999, A solo microwave for basic reheating and cooking., https://example.com/solo_microwave.jpg
+Microwave, Grill Microwave, 7999, A grill microwave for cooking and grilling., https://example.com/grill_microwave.jpg
+Microwave, Convection Microwave, 9999, A convection microwave for baking and roasting., https://example.com/convection_microwave.jpg
+Washing Machine, Front Load, 24999, A front-load washing machine for efficient laundry., https://example.com/front_load.jpg
+Washing Machine, Top Load, 19999, A top-load washing machine for convenience., https://example.com/top_load.jpg
+Washing Machine, Semi Automatic, 14999, A semi-automatic machine for budget washing., https://example.com/semi_automatic.jpg
+Refrigerator, Single Door, 14999, A compact single-door refrigerator for small families., https://example.com/single_door.jpg
+Refrigerator, Double Door, 24999, A spacious double-door refrigerator., https://example.com/double_door.jpg
+Refrigerator, Side by Side, 49999, A side-by-side refrigerator with large capacity., https://example.com/side_by_side.jpg
